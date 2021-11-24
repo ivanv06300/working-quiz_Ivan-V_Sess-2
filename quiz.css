@@ -1,0 +1,28 @@
+h1  {
+    color: rgb(255, 166, 0);
+    text-align: center;
+    text-shadow: 2px 2px black;
+    font-size: 3rem;
+}
+
+h3  {
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+form {
+    background-color: rgb(255, 236, 151);
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    padding: 15px;
+    background-color: rgb(255, 166, 0);
+    font-family: 'Roboto', sans-serif;
+    color: white;
+
+}
+
+html {
+    background-color: rgb(255, 248, 209);
+}
